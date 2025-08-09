@@ -37,8 +37,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdnanAD66&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdnanAD66&theme=tokyonight" height="165"/>
+  ![](https://github-readme-stats.vercel.app/api?username=AdnanAD66&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=AdnanAD66&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanAD66&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
 
 ---
